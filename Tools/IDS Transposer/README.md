@@ -6,10 +6,10 @@ Details of the conversion process are explained in the User Guide provided here,
    
 Two versions of the Java code for the IDS Transposer are provided:
 
-- Desktop
+- Desktop   
 The Desktop version includes both Java code and a .JAR file for installation on a PC.  It also allows batch files, which are very useful when the source data files are revised.
 
-- Web service
+- Web service   
 IDS was originally provided as a web service from servers at ICPSR.  This web service is no longer available, but the Java code provided here can be used to implement the same service in other places.
 
 
