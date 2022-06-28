@@ -17,11 +17,12 @@ Pre-compiled Java .jar file can be downloaded from **/target/**
 
 Download "IDS-Transposer-App-jar-with-dependencies.jar" for pre-compiled executable. This portable file does not require any other files or subfolders.
 
-Run by double-clicking on it to launch GUI. Alternatively, you can run with the command 
+Run by double-clicking on it to launch GUI.     
+Alternatively, you can run with the command 
 ```
 java -jar IDS-Transposer-App-jar-with-dependencies.jar 
 ```
-in a command line. 
+in a command line.    
 Run with the command 
 ```
 java -jar IDS-Transposer-App-jar-with-dependencies.jar --help 
