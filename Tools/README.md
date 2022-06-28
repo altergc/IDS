@@ -8,5 +8,5 @@ These SQL queries test the validity of IDS tables and check for consistency with
    
 - Family Reconstitution Checks   
 SQL queries that check for errors in IDS tables from family reconstitutions, such as   
-* dates of death earlier than dates of birth 
-* age differences between mothers and children of less than 15 or greater than 50 years 
+    - dates of death earlier than dates of birth 
+    - age differences between mothers and children of less than 15 or greater than 50 years 
