@@ -1,4 +1,4 @@
-#IDS Transposer  
+# IDS Transposer  
 
 The IDS Transposer converts data in rectangular files into the five standard IDS files (INDIVIDUAL, INDIV_INDIV, CONTEXT, INDIV_CONTEXT, CONTEXT_CONTEXT).  Input and output files may be either comma or tab delimited text files.   
 
