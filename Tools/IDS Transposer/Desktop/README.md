@@ -10,7 +10,7 @@ The original project repository can be found at the following link:
 https://github.com/ICPSR/IDS
 
 ## User guide
-See IDSDesktopDsgDocv4.pdf for a guide to the desktop version of IDS Transposer.   
+See `IDSDesktopDsgDocv4.pdf` for a guide to the desktop version of IDS Transposer.   
    
 ## Brief explanation of project:
 
