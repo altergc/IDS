@@ -24,5 +24,6 @@ Please see the LICENSE.txt file in this folder.
     
 ##Citation	 
 Please cite this work as:
+Alter, G. C. (2022). IDS Validation Queries [SQL]. https://github.com/altergc/IDS/tree/main/Tools/IDS_Validation
 
 
