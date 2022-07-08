@@ -9,7 +9,7 @@ This is a GitHub repository for a Desktop GUI version of the web-based IDS proje
 The original project repository can be found at the following link:
 https://github.com/ICPSR/IDS
 
-##User guide
+## User guide
 See IDSDesktopDsgDocv4.pdf for a guide to the desktop version of IDS Transposer.   
    
 ## Brief explanation of project:
@@ -37,9 +37,9 @@ for instructions for alternate launch configurations, including running without 
 
 **Java 8 JRE (Java Runtime Environment) or greater is required to run on your local machine.** 
 
-##License
+## License
 The license for this software can be found in the LICENSE.txt file in this folder.
 
-##Citation
+## Citation
 Please cite this software as:   
 Bhargav, A., Wang, J., Alter, M., Hlynka, A., IDS Transposer Desktop [Java], https://github.com/altergc/IDS/tree/main/Tools/IDS%20Transposer/Desktop
