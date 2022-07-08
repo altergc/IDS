@@ -18,7 +18,7 @@ The Linked Table Manager can be used to link to data in other IDS databases in A
    
 The queries given here may require editing before they can be used in other database systems.  While basic SQL keywords are the same in all versions of SQL, functions are often implemented differently.  These queries make extensive use of functions for dates and for parsing text, which may not be compatible with other dialects of SQL.   
    
-These queries can be tested using the [Fam_Recon_test_data_v2.accdb](https://github.com/altergc/IDS/blob/main/Tools/IDS_Validation/Fam_Recon_test_data_v2.accdb), which is provided in this repository.  This test should generate the result found in the [Known_errors_IDS_validation_tests--Fam_recon_test.pdf[(https://github.com/altergc/IDS/blob/main/Tools/IDS_Validation/Known_errors_IDS_validation_tests--Fam_recon_test.pdf) file.   
+These queries can be tested using the [Fam_Recon_test_data_v2.accdb](https://github.com/altergc/IDS/blob/main/Tools/IDS_Validation/Fam_Recon_test_data_v2.accdb), which is provided in this repository.  This test should generate the result found in the [Known_errors_IDS_validation_tests--Fam_recon_test.pdf](https://github.com/altergc/IDS/blob/main/Tools/IDS_Validation/Known_errors_IDS_validation_tests--Fam_recon_test.pdf) file.   
    
    
 ## License    
