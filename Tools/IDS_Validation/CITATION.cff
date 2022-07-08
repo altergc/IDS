@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: IDS Validation Queries
+message: >-
+  Please cite this software if you re-use it or
+  mention it in a publication.
+type: software
+authors:
+  - given-names: George
+    family-names: Alter
+    email: altergc@umich.edu
+    affiliation: University of Michigan
+    orcid: 'https://orcid.org/0000-0003-3823-4972'
