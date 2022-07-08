@@ -1,18 +1,17 @@
-cff-version: 1.2.0
-title: "IDS Validation Queries"
+cff-version: 1.0.0
 message: >-
-  Please cite this software if you re-use it or
-  mention it in a publication.
-type: software
-authors:
-  - given-names: George
-    family-names: Alter
-    email: altergc@umich.edu
-    affiliation: University of Michigan
-    orcid: 'https://orcid.org/0000-0003-3823-4972'
-programming-languages:
-  - sqlpl
-repository-code: >-
-  https://github.com/altergc/IDS/tree/main/Tools/IDS_Validation
-abstract: SQL queries for validating IDS tables.
-license: MIT
+  Please cite this software if you re-use it or mention it in a publication.
+references:
+  - type: software
+    authors:
+      - given-names: George
+        family-names: Alter
+        email: altergc@umich.edu
+        affiliation: University of Michigan
+        orcid: 'https://orcid.org/0000-0003-3823-4972'
+    title: "IDS Validation Queries"
+    programming-languages
+      - sqlpl
+    repository-code: https://github.com/altergc/IDS/tree/main/Tools/IDS_Validation
+    abstract: SQL queries for validating IDS tables.
+    license: MIT
